@@ -1,0 +1,6 @@
+.aflw
+src\logs
+__pycache__
+src/data/*
+src/logs/*
+!src/**/.gitkeep

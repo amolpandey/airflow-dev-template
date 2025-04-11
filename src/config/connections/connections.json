@@ -1,0 +1,22 @@
+{
+  "local_data_folder": {
+    "conn_type": "fs",
+    "description": "",
+    "login": "",
+    "password": null,
+    "host": "",
+    "port": null,
+    "schema": "",
+    "extra": "{\"path\": \"/opt/airflow/data\"}"
+  },
+  "mysql_airflow": {
+    "conn_type": "mysql",
+    "description": "",
+    "login": "root",
+    "password": "airflow",
+    "host": "mysql",
+    "port": 3306,
+    "schema": "",
+    "extra": ""
+  }
+}
